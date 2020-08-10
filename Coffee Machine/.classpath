@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Problems/Hello!/src"/>
+	<classpathentry kind="src" path="Problems/Squares of natural numbers/src"/>
+	<classpathentry kind="src" path="Problems/The sum of digits/src"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Problems/The sum of digits/out/production/classes"/>
+</classpath>
